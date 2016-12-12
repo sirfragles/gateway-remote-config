@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "616772696c6f7261",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "log.gatewaystats.org", 
+        "serv_port_up": 1700, 
+        "serv_port_down": 1700, 
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 51.20698,
+     "ref_longitude": 17.39345,
+     "ref_altitude": 150,
+     "contact_email": "sirfragles@gmail.com",
+     "description": "AgriLora"
+  }
+}
